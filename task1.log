@@ -1,0 +1,11 @@
+Script started on 2020-09-27 16:46:17-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="206" LINES="56"]
+]0;t1@t1-Latitude-5490: ~/Documents/lab5complete[01;32mt1@t1-Latitude-5490[00m:[01;34m~/Documents/lab5complete[00m$ curl -p a[K[K[Kp [K[Ko ad[K[Kaddress.csv https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   328  100   328    0     0    284      0  0:00:01  0:00:01 --:--:--   284
+]0;t1@t1-Latitude-5490: ~/Documents/lab5complete[01;32mt1@t1-Latitude-5490[00m:[01;34m~/Documents/lab5complete[00m$ l
+address.csv  task1.log
+]0;t1@t1-Latitude-5490: ~/Documents/lab5complete[01;32mt1@t1-Latitude-5490[00m:[01;34m~/Documents/lab5complete[00m$ exit
+exit
+
+Script done on 2020-09-27 16:47:47-04:00 [COMMAND_EXIT_CODE="0"]
